@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Guts9O9O/Guts9O9O/blob/main/github-header-image.png)]
+[![MasterHead](https://github.com/Guts9O9O/Guts9O9O/blob/main/github-header-image%20(1).png)]
 
 <h1 align="center">Hi 👋, I'm Chinmay Sandhane</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
